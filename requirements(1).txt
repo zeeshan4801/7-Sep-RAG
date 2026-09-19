@@ -1,2 +1,9 @@
-streamlit python-dotenv groq langchain langchain-community
-langchain-groq faiss-cpu pypdf sentence-transformers huggingface-hub
+streamlit
+groq
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+pypdf
+sentence-transformers
+huggingface-hub
